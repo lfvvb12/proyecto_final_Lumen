@@ -2,19 +2,20 @@
 
 #Laravel/Lumen
 
-Como sabemos es un micro-framework  para PHP  que sirve para  la realizacio 
+Es un microserver para Laravel el cual esta codificado en conjunto con php. dandole existencia a las diferentes aplicaciones
 
-de aplicaciones web con una sintaxis mas entendible  y compacta.
+de tal forma sera menos complejo.
 
 #Lumen 
 
-Es una gran herramie para desarrollar compiladores en diferentes entornos.
-Ademas de que LUMEN  tiene un gran valor en el mundo de los compiladores, ya que es parte
-de la familia BAEM, en donde se puede ejecutar en diferentes entornos, donde los principales
-obejtivos de este proyecto, son de eliminar las bilbiotecas que dejan sin condigo activo.
-Y a su vez busca acoplarse a los nuevos navegadores.
+Esta herramienta sirve para desarrollar compiladores en diferentes entornos.
+Ademas de que LUMEN  e abarca demasiados terrenos desde el ambito de la investigacion a lo educativo
+de tal manera podemos ocuparlo de lo complejo a nuestra programacion en php.
 
 #PHP
 
 Es un lenguaje de programación  basicamente para el desarrollo de backend y a su vez este sirve 
 principalmente  para hacer las aplicaciones de una manera mas sencilla y accesible.
+
+
+En este trabajo buscamos la implementacion de php y lumen con una programacion dedicada a los microservicios de los web sites.
